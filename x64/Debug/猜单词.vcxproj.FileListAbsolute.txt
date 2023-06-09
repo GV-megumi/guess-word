@@ -1,1 +1,2 @@
 C:\Users\gv201\source\repos\猜单词\x64\Debug\猜单词.exe
+C:\Users\gv201\source\repos\guess-word\x64\Debug\猜单词.exe
